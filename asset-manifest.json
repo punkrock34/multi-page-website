@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/multi-page-website/static/css/main.03c4489e.css",
+    "main.js": "/multi-page-website/static/js/main.63f158b8.js",
+    "index.html": "/multi-page-website/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.03c4489e.css",
+    "static/js/main.63f158b8.js"
+  ]
+}
